@@ -2,14 +2,14 @@
 
 > **A smart, zero-waste kitchen assistant powered by Google Gemini 2.5 Flash.**
 
-[![Live Demo](https://img.shields.io/badge/Live%20Demo-shelflife.netlify.app-brightgreen?style=for-the-badge&logo=netlify)](https://shelflife.netlify.app)
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-shelflifeofficial.netlify.app-brightgreen?style=for-the-badge&logo=netlify)](https://shelflifeofficial.netlify.app)
 [![Powered By](https://img.shields.io/badge/AI-Google%20Gemini%202.5%20Flash-blue?style=for-the-badge&logo=google)](https://ai.google.dev)
 
 ---
 
 ## 🌐 1. Live Deployed Application
 
-- **Live Public URL**: [https://shelflife.netlify.app](https://shelflife.netlify.app)
+- **Live Public URL**: [https://shelflifeofficial.netlify.app](https://shelflifeofficial.netlify.app)
 *(Deployed & production-ready on Netlify)*
 
 ---
@@ -97,7 +97,7 @@ Rules:
 | **API Protocol** | Direct Gemini REST API (`https://generativelanguage.googleapis.com/v1beta`) |
 | **Styling & Design** | Modern Vanilla CSS3, Google Fonts (Work Sans, Bebas Neue, IBM Plex Mono) |
 | **State & Storage** | React Hooks, LocalStorage API |
-| **Deployment** | Netlify |
+| **Deployment** | Netlify (`shelflifeofficial.netlify.app`) |
 
 ---
 
