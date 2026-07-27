@@ -1,0 +1,65 @@
+{
+  "inventory": [
+    {
+      "id": "item-01",
+      "name": "Fresh Spinach",
+      "amount": "1 bag (200g)",
+      "category": "Produce",
+      "expiry": "2026-07-28"
+    },
+    {
+      "id": "item-02",
+      "name": "Whole Milk",
+      "amount": "1/2 gallon",
+      "category": "Dairy & Eggs",
+      "expiry": "2026-07-28"
+    },
+    {
+      "id": "item-03",
+      "name": "Cherry Tomatoes",
+      "amount": "1 pint",
+      "category": "Produce",
+      "expiry": "2026-07-29"
+    },
+    {
+      "id": "item-04",
+      "name": "Chicken Breast",
+      "amount": "500g",
+      "category": "Protein",
+      "expiry": "2026-07-30"
+    },
+    {
+      "id": "item-05",
+      "name": "Brown Eggs",
+      "amount": "6 eggs",
+      "category": "Dairy & Eggs",
+      "expiry": "2026-08-01"
+    },
+    {
+      "id": "item-06",
+      "name": "Bell Pepper",
+      "amount": "2 items",
+      "category": "Produce",
+      "expiry": "2026-08-02"
+    }
+  ],
+  "savedRecipes": [
+    {
+      "id": "recipe-01",
+      "title": "Pan-Seared Fresh Spinach & Kitchen Garden Bowl",
+      "description": "A fast, nutrient-packed dish specifically designed to use up your Fresh Spinach & Whole Milk before expiry.",
+      "uses_expiring_items": ["Fresh Spinach", "Whole Milk"],
+      "missing_ingredients": ["Olive Oil", "Salt & Pepper", "Garlic (optional)"],
+      "servings": 2,
+      "prep_time_minutes": 15,
+      "difficulty": "Easy",
+      "steps": [
+        "Prep your key ingredients: rinse and chop Fresh Spinach, Whole Milk, Cherry Tomatoes.",
+        "Heat 1 tbsp of olive oil in a skillet over medium-high heat.",
+        "Sauté Fresh Spinach for 4-5 minutes until tender and fragrant.",
+        "Season well with salt, cracked black pepper, and garlic powder to taste.",
+        "Serve hot in bowls and garnish with fresh herbs if available."
+      ]
+    }
+  ]
+}
