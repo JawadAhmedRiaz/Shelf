@@ -2,15 +2,15 @@
 
 > **A smart, zero-waste kitchen assistant powered by Google Gemini 2.5 Flash.**
 
-[![Live Demo](https://img.shields.io/badge/Live%20Demo-shelf--life.vercel.app-brightgreen?style=for-the-badge&logo=vercel)](https://shelflife-zerowaste.vercel.app)
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-shelflife.netlify.app-brightgreen?style=for-the-badge&logo=netlify)](https://shelflife.netlify.app)
 [![Powered By](https://img.shields.io/badge/AI-Google%20Gemini%202.5%20Flash-blue?style=for-the-badge&logo=google)](https://ai.google.dev)
 
 ---
 
 ## 🌐 1. Live Deployed Application
 
-- **Live Public URL**: [https://shelflife-zerowaste.vercel.app](https://shelflife-zerowaste.vercel.app)
-*(Deployed & production-ready on Vercel / Netlify)*
+- **Live Public URL**: [https://shelflife.netlify.app](https://shelflife.netlify.app)
+*(Deployed & production-ready on Netlify)*
 
 ---
 
@@ -97,7 +97,7 @@ Rules:
 | **API Protocol** | Direct Gemini REST API (`https://generativelanguage.googleapis.com/v1beta`) |
 | **Styling & Design** | Modern Vanilla CSS3, Google Fonts (Work Sans, Bebas Neue, IBM Plex Mono) |
 | **State & Storage** | React Hooks, LocalStorage API |
-| **Deployment** | Vercel |
+| **Deployment** | Netlify |
 
 ---
 
@@ -124,7 +124,7 @@ Rules:
 
 1. **Clone or navigate to the repository**:
    ```bash
-   cd "D:\New folder"
+   cd "D:\Shelflife"
    ```
 
 2. **Install dependencies**:
